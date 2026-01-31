@@ -20,13 +20,8 @@ status-website:
   cname: status.gomasy.jp
   # baseUrl: /
   logoUrl: https://don.gomasy.jp/media/icons/android-chrome-256x256.png
-  name: Upptime
+  name: status.gomasy.jp
   introTitle: "Status page of [ごま丼](https://don.gomasy.jp/about)"
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
