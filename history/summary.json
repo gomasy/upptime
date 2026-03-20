@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/don.gomasy.jp.ico",
     "slug": "api-rest-web-ui",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 412,
-    "timeDay": 426,
-    "timeWeek": 425,
-    "timeMonth": 407,
-    "timeYear": 412,
-    "dailyMinutesDown": {
-      "2026-03-19": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 411,
+    "timeDay": 409,
+    "timeWeek": 424,
+    "timeMonth": 405,
+    "timeYear": 411,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API (Streaming)",
@@ -26,18 +24,16 @@
     "slug": "api-streaming",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 254,
-    "timeDay": 260,
-    "timeWeek": 255,
-    "timeMonth": 247,
+    "timeDay": 263,
+    "timeWeek": 261,
+    "timeMonth": 249,
     "timeYear": 254,
-    "dailyMinutesDown": {
-      "2026-03-19": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Object Storage",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 788,
-    "timeWeek": 327,
-    "timeMonth": 263,
-    "timeYear": 263,
+    "time": 264,
+    "timeDay": 287,
+    "timeWeek": 341,
+    "timeMonth": 265,
+    "timeYear": 264,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 136,
-    "timeWeek": 149,
-    "timeMonth": 146,
-    "timeYear": 148,
+    "time": 149,
+    "timeDay": 181,
+    "timeWeek": 156,
+    "timeMonth": 148,
+    "timeYear": 149,
     "dailyMinutesDown": {}
   }
 ]
