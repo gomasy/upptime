@@ -1,7 +1,7 @@
 url: https://don.gomasy.jp/health
-status: down
-code: 503
-responseTime: 376
-lastUpdated: 2026-03-23T00:30:26.998Z
+status: up
+code: 200
+responseTime: 375
+lastUpdated: 2026-03-23T00:35:23.669Z
 startTime: 2026-01-31T15:44:09.934Z
 generator: Upptime <https://github.com/upptime/upptime>
