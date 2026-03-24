@@ -6,9 +6,9 @@
     "slug": "api-rest-web-ui",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 412,
     "timeDay": 438,
@@ -16,7 +16,7 @@
     "timeMonth": 406,
     "timeYear": 412,
     "dailyMinutesDown": {
-      "2026-03-24": 0
+      "2026-03-24": 4
     }
   },
   {
