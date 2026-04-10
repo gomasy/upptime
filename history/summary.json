@@ -4,19 +4,19 @@
     "url": "https://don.gomasy.jp/health",
     "icon": "https://icons.duckduckgo.com/ip3/don.gomasy.jp.ico",
     "slug": "api-rest-web-ui",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 413,
-    "timeDay": 387,
-    "timeWeek": 423,
+    "timeDay": 400,
+    "timeWeek": 421,
     "timeMonth": 415,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2026-04-10": 1
+      "2026-04-10": 4
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://don.gomasy.jp/api/v1/streaming/health",
     "icon": "https://icons.duckduckgo.com/ip3/don.gomasy.jp.ico",
     "slug": "api-streaming",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 209,
-    "timeWeek": 238,
+    "timeDay": 232,
+    "timeWeek": 240,
     "timeMonth": 247,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2026-04-10": 0
+      "2026-04-10": 3
     }
   },
   {
