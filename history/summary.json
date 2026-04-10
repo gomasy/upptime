@@ -4,10 +4,10 @@
     "url": "https://don.gomasy.jp/health",
     "icon": "https://icons.duckduckgo.com/ip3/don.gomasy.jp.ico",
     "slug": "api-rest-web-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 413,
@@ -15,14 +15,16 @@
     "timeWeek": 423,
     "timeMonth": 415,
     "timeYear": 413,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-10": 1
+    }
   },
   {
     "name": "API (Streaming)",
     "url": "https://don.gomasy.jp/api/v1/streaming/health",
     "icon": "https://icons.duckduckgo.com/ip3/don.gomasy.jp.ico",
     "slug": "api-streaming",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 238,
     "timeMonth": 247,
     "timeYear": 251,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-10": 0
+    }
   },
   {
     "name": "Object Storage",
