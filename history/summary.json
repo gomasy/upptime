@@ -40,19 +40,19 @@
     "url": "https://m.gmsy.in/health/ready",
     "icon": "https://icons.duckduckgo.com/ip3/m.gmsy.in.ico",
     "slug": "object-storage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 257,
-    "timeWeek": 241,
-    "timeMonth": 262,
-    "timeYear": 263,
+    "time": 264,
+    "timeDay": 285,
+    "timeWeek": 252,
+    "timeMonth": 264,
+    "timeYear": 264,
     "dailyMinutesDown": {
-      "2026-04-21": 0
+      "2026-04-21": 4
     }
   },
   {
