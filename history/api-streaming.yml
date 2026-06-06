@@ -1,7 +1,7 @@
 url: https://don.gomasy.jp/api/v1/streaming/health
-status: down
-code: 503
-responseTime: 301
-lastUpdated: 2026-06-06T17:50:31.948Z
+status: up
+code: 200
+responseTime: 244
+lastUpdated: 2026-06-06T17:55:20.147Z
 startTime: 2026-01-31T15:44:10.993Z
 generator: Upptime <https://github.com/upptime/upptime>
