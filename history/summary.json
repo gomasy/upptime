@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 485,
-    "timeWeek": 434,
+    "time": 413,
+    "timeDay": 475,
+    "timeWeek": 441,
     "timeMonth": 392,
-    "timeYear": 412,
+    "timeYear": 413,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "api-streaming",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 295,
-    "timeWeek": 299,
-    "timeMonth": 303,
-    "timeYear": 264,
-    "dailyMinutesDown": {
-      "2026-06-06": 5
-    }
+    "time": 265,
+    "timeDay": 284,
+    "timeWeek": 302,
+    "timeMonth": 302,
+    "timeYear": 265,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Object Storage",
@@ -49,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 264,
-    "timeDay": 280,
-    "timeWeek": 266,
+    "timeDay": 277,
+    "timeWeek": 277,
     "timeMonth": 258,
     "timeYear": 264,
     "dailyMinutesDown": {}
@@ -67,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 125,
-    "timeWeek": 144,
+    "timeDay": 138,
+    "timeWeek": 141,
     "timeMonth": 154,
     "timeYear": 150,
     "dailyMinutesDown": {}
