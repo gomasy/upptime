@@ -6,16 +6,18 @@
     "slug": "api-rest-web-ui",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 350,
-    "timeWeek": 400,
-    "timeMonth": 404,
-    "timeYear": 412,
-    "dailyMinutesDown": {}
+    "time": 411,
+    "timeDay": 334,
+    "timeWeek": 383,
+    "timeMonth": 399,
+    "timeYear": 411,
+    "dailyMinutesDown": {
+      "2026-06-21": 5
+    }
   },
   {
     "name": "API (Streaming)",
