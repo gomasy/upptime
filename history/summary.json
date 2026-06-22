@@ -6,18 +6,16 @@
     "slug": "api-rest-web-ui",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 411,
-    "timeDay": 334,
-    "timeWeek": 383,
-    "timeMonth": 399,
+    "timeDay": 332,
+    "timeWeek": 375,
+    "timeMonth": 400,
     "timeYear": 411,
-    "dailyMinutesDown": {
-      "2026-06-21": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API (Streaming)",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 317,
-    "timeWeek": 322,
+    "time": 270,
+    "timeDay": 306,
+    "timeWeek": 318,
     "timeMonth": 308,
-    "timeYear": 269,
+    "timeYear": 270,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 392,
-    "timeDay": 6743,
+    "time": 391,
+    "timeDay": 6739,
     "timeWeek": 2416,
     "timeMonth": 863,
-    "timeYear": 392,
+    "timeYear": 391,
     "dailyMinutesDown": {}
   },
   {
@@ -67,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 137,
-    "timeWeek": 157,
+    "timeDay": 185,
+    "timeWeek": 159,
     "timeMonth": 156,
     "timeYear": 151,
     "dailyMinutesDown": {}
