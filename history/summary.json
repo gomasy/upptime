@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 428,
-    "timeDay": 446,
-    "timeWeek": 411,
+    "timeDay": 366,
+    "timeWeek": 401,
     "timeMonth": 491,
     "timeYear": 428,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 273,
-    "timeDay": 292,
-    "timeWeek": 284,
-    "timeMonth": 302,
+    "timeDay": 238,
+    "timeWeek": 272,
+    "timeMonth": 299,
     "timeYear": 273,
     "dailyMinutesDown": {}
   },
@@ -42,18 +42,16 @@
     "slug": "object-storage",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 373,
-    "timeDay": 235,
-    "timeWeek": 244,
-    "timeMonth": 825,
-    "timeYear": 373,
-    "dailyMinutesDown": {
-      "2026-07-12": 5
-    }
+    "time": 372,
+    "timeDay": 197,
+    "timeWeek": 229,
+    "timeMonth": 822,
+    "timeYear": 372,
+    "dailyMinutesDown": {}
   },
   {
     "name": "E-mail",
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 150,
-    "timeWeek": 161,
-    "timeMonth": 157,
+    "timeDay": 121,
+    "timeWeek": 153,
+    "timeMonth": 156,
     "timeYear": 151,
     "dailyMinutesDown": {}
   }
