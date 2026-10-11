@@ -1,7 +1,7 @@
 url: https://m.gmsy.in/health/ready
-status: down
-code: 502
-responseTime: 1470
-lastUpdated: 2026-10-11T16:45:49.731Z
+status: up
+code: 200
+responseTime: 343
+lastUpdated: 2026-10-11T17:40:35.129Z
 startTime: 2026-01-31T15:44:11.635Z
 generator: Upptime <https://github.com/upptime/upptime>
