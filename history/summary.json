@@ -4,19 +4,19 @@
     "url": "https://don.gomasy.jp/health",
     "icon": "https://icons.duckduckgo.com/ip3/don.gomasy.jp.ico",
     "slug": "api-rest-web-ui",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 397,
-    "timeDay": 298,
-    "timeWeek": 447,
-    "timeMonth": 459,
+    "timeDay": 360,
+    "timeWeek": 451,
+    "timeMonth": 460,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2026-10-25": 0
+      "2026-10-25": 5
     }
   },
   {
