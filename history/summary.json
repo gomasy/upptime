@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 399,
-    "timeDay": 477,
-    "timeWeek": 452,
-    "timeMonth": 466,
-    "timeYear": 399,
+    "time": 400,
+    "timeDay": 850,
+    "timeWeek": 502,
+    "timeMonth": 480,
+    "timeYear": 400,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 271,
-    "timeDay": 375,
-    "timeWeek": 389,
-    "timeMonth": 347,
+    "timeDay": 318,
+    "timeWeek": 383,
+    "timeMonth": 346,
     "timeYear": 271,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.89%",
     "time": 414,
-    "timeDay": 628,
-    "timeWeek": 374,
-    "timeMonth": 905,
+    "timeDay": 253,
+    "timeWeek": 362,
+    "timeMonth": 901,
     "timeYear": 414,
     "dailyMinutesDown": {
       "2026-08-08": 86,
@@ -63,19 +63,19 @@
     "url": "mail.gomasy.jp",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "e-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
     "timeDay": 143,
-    "timeWeek": 148,
+    "timeWeek": 149,
     "timeMonth": 145,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2026-11-01": 1
+      "2026-11-01": 0
     }
   }
 ]
