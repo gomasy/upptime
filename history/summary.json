@@ -63,19 +63,19 @@
     "url": "mail.gomasy.jp",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "e-mail",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 136,
-    "timeWeek": 145,
-    "timeMonth": 145,
+    "timeDay": 141,
+    "timeWeek": 146,
+    "timeMonth": 146,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2026-11-03": 0
+      "2026-11-03": 6
     }
   }
 ]
