@@ -65,17 +65,15 @@
     "slug": "e-mail",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 153,
+    "timeDay": 152,
     "timeWeek": 152,
     "timeMonth": 148,
     "timeYear": 150,
-    "dailyMinutesDown": {
-      "2026-11-14": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
