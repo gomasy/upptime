@@ -13,7 +13,7 @@
     "time": 403,
     "timeDay": 517,
     "timeWeek": 471,
-    "timeMonth": 473,
+    "timeMonth": 475,
     "timeYear": 403,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 409,
     "timeDay": 222,
     "timeWeek": 298,
-    "timeMonth": 915,
+    "timeMonth": 931,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2026-08-08": 86,
@@ -63,10 +63,10 @@
     "url": "mail.gomasy.jp",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "e-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
@@ -75,7 +75,7 @@
     "timeMonth": 148,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2026-11-15": 1
+      "2026-11-15": 0
     }
   }
 ]
