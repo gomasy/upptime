@@ -11,7 +11,7 @@ sites:
     url: https://m.gmsy.in/health/ready
   - name: E-mail
     url: mail.gomasy.jp
-    port: 25
+    port: 587
     check: "tcp-ping"
 
 status-website:
